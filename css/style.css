@@ -4,6 +4,12 @@ body {
   column-width: 326px;
 }
 
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
 @media screen and (min-width: 575px){
    div {
     margin: 1%;
