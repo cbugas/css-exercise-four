@@ -4,14 +4,11 @@ body {
   column-width: 326px;
 }
 
-div {
-  background-image: .preview
-  background-image: ('images/london') no-repeat;
-  background-image: ('images/baku') no-repeat;
-  background-image: ('images/rome') no-repeat;
-  background-image: ('images/madrid") no-repeat;
+.preview baku {
   background-size: 100%;
+  background-repeat: no-repeat;
 }
+
 
 h1 {
   font-size: 20px;
