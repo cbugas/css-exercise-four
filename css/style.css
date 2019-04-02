@@ -5,12 +5,9 @@ body {
 }
 
 div {
-  background-image: .preview baku
-  background-image: .preview london
-  background-image: .preview madrid
-  background-image: .preview rome
+  background-image: .preview
+  background: ('images/london') no-repeat;
   background-size: 100%;
-  background-repeat: no-repeat;
 }
 
 h1 {
