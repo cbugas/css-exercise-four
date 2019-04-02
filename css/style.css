@@ -7,25 +7,25 @@ body {
 }
 
 .baku {
-  background-image: 'images/baku.jpg';
+  background-image: '/images/baku.jpg';
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .rome {
-  background-image: 'images/rome.jpg';
+  background-image: '/images/rome.jpg';
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .madrid {
-  background-image: 'images/madrid.jpg';
+  background-image: '/images/madrid.jpg';
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
 .london {
-  background-image: 'images/london.png';
+  background-image: '/images/london.png';
   background-size: 100%;
   background-repeat: no-repeat;
 }
