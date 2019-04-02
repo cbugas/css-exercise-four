@@ -6,7 +6,10 @@ body {
 
 div {
   background-image: .preview
-  background: ('images/london') no-repeat;
+  background-image: ('images/london') no-repeat;
+  background-image: ('images/baku') no-repeat;
+  background-image: ('images/rome') no-repeat;
+  background-image: ('images/madrid") no-repeat;
   background-size: 100%;
 }
 
