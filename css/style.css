@@ -4,25 +4,25 @@ body {
   column-width: 326px;
 }
 
-.preview baku {
+.preview.baku {
   background-image: 'images/baku.jpg';
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
-.preview rome {
+.preview.rome {
   background-image: 'images/rome.jpg';
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
-.preview madrid {
+.preview.madrid {
   background-image: 'images/madrid.jpg';
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
-.preview london {
+.preview.london {
   background-image: 'images/london.png';
   background-size: 100%;
   background-repeat: no-repeat;
