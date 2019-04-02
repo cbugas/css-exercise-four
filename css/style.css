@@ -6,8 +6,12 @@ body {
 
 div {
   background-image: .preview baku
-  background-size: 100%
+  background-image: .preview london
+  background-image: .preview madrid
+  background-image: .preview rome
+  background-size: 100%;
   background-repeat: no-repeat;
+}
 
 h1 {
   font-size: 20px;
