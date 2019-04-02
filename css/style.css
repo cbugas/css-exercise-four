@@ -4,6 +4,11 @@ body {
   column-width: 326px;
 }
 
+div {
+  background-image: .preview baku
+  background-size: 100%
+  background-repeat: no-repeat;
+
 h1 {
   font-size: 20px;
   font-weight: bold;
