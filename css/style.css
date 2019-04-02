@@ -10,6 +10,13 @@ h1 {
   text-align: center;
 }
 
+.emphasis {
+  font-family: simplifica;
+  uppercase;
+  text-align: center
+}
+  
+
 @media screen and (min-width: 575px){
    div {
     margin: 1%;
