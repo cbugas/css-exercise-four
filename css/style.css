@@ -5,10 +5,28 @@ body {
 }
 
 .preview baku {
+  background-image: 'images/baku.jpg';
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
+.preview rome {
+  background-image: 'images/rome.jpg';
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.preview madrid {
+  background-image: 'images/madrid.jpg';
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.preview london {
+  background-image: 'images/london.png';
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 
 h1 {
   font-size: 20px;
