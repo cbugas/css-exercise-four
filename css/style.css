@@ -7,34 +7,31 @@ body {
 
 .preview {
   height: 300px;
+  float: left;
 }
 
 .baku {
   background-image: url('../images/baku.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
-  float: left;
 }
 
 .rome {
   background-image: url('../images/rome.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
-  float: left;
 }
 
 .madrid {
   background-image: url('../images/madrid.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
-  float: left;
 }
 
 .london {
   background-image: url('../images/london.png');
   background-size: 100%;
   background-repeat: no-repeat;
-  float: left;
 }
 
 h1 {
@@ -58,6 +55,6 @@ h1 {
 @media screen and (min-width: 991px){
    div {
     margin: 1%;
-    width: 100%;
+    width: 24%;
   }
 }
