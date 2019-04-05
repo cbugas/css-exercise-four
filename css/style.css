@@ -9,6 +9,7 @@ body {
 .preview {
   height: 300px;
   float: left;
+  width: 20%;
 }
 
 .baku {
