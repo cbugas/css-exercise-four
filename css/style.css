@@ -6,31 +6,35 @@ body {
 }
 
 .preview {
-  height: 120px;
+  height: 300px;
 }
 
 .baku {
   background-image: url('../images/baku.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
+  float: left;
 }
 
 .rome {
   background-image: url('../images/rome.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
+  float: left;
 }
 
 .madrid {
   background-image: url('../images/madrid.jpg');
   background-size: 100%;
   background-repeat: no-repeat;
+  float: left;
 }
 
 .london {
   background-image: url('../images/london.png');
   background-size: 100%;
   background-repeat: no-repeat;
+  float: left;
 }
 
 h1 {
